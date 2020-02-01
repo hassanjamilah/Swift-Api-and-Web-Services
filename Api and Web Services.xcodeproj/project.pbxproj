@@ -15,6 +15,7 @@
 		CE29295023DEFA970069D46F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE29294F23DEFA970069D46F /* MainViewController.swift */; };
 		CE29295223DEFCD00069D46F /* DogApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE29295123DEFCD00069D46F /* DogApi.swift */; };
 		CE29295423DF0C120069D46F /* DogImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE29295323DF0C120069D46F /* DogImage.swift */; };
+		CECC413C23E52C47004936C9 /* BreedsListResponseStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECC413B23E52C47004936C9 /* BreedsListResponseStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CE29294F23DEFA970069D46F /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		CE29295123DEFCD00069D46F /* DogApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogApi.swift; sourceTree = "<group>"; };
 		CE29295323DF0C120069D46F /* DogImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogImage.swift; sourceTree = "<group>"; };
+		CECC413B23E52C47004936C9 /* BreedsListResponseStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedsListResponseStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 			children = (
 				CE29295123DEFCD00069D46F /* DogApi.swift */,
 				CE29295323DF0C120069D46F /* DogImage.swift */,
+				CECC413B23E52C47004936C9 /* BreedsListResponseStruct.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			files = (
 				CE29295023DEFA970069D46F /* MainViewController.swift in Sources */,
 				CE29295423DF0C120069D46F /* DogImage.swift in Sources */,
+				CECC413C23E52C47004936C9 /* BreedsListResponseStruct.swift in Sources */,
 				CE29293923DEFA4B0069D46F /* AppDelegate.swift in Sources */,
 				CE29293B23DEFA4B0069D46F /* SceneDelegate.swift in Sources */,
 				CE29295223DEFCD00069D46F /* DogApi.swift in Sources */,
